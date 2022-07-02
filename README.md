@@ -19,7 +19,7 @@ In this activity, the aim is to find the critical percolation of a matrix that s
 ## 3 - Theoretical framework
 Fig. 1 illustrates a porous material, a material with holes, pores, of various sizes.
 
-
+![alt text](https://github.com/Juan-Ignacio-Ortega/ProgrammingPractice/blob/main/Fig1.1Percolacion.png?raw=true)
 
 Figure 1. Illustration of a porous material from a nanoporous silicate (SiO2). The colors within the pores illustrate the distance to the closest part of the solid (Malthe, 2020).
 
