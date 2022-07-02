@@ -2,10 +2,10 @@
 
 ## 1 - Code and Description
 ### Code
-
+https://github.com/Juan-Ignacio-Ortega/ProgrammingPractice/blob/main/PercolationCode_JIOG.py
 
 ### Description
-
+https://github.com/Juan-Ignacio-Ortega/ProgrammingPractice/blob/main/PercolationDescription_JIOG.ipynb
 
 ## 2 - Introduction
 Percolation is the study of the connectivity of random media and other properties of connected subsets of random media.
